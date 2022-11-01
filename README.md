@@ -1,4 +1,4 @@
-- **Model Name:** CHAE UN LEE
+- **Model Name:** CHAE UN LEE   (이채운)
 - **Model Origin(s):**
 -      🇰🇷 Invested by Koreans
 -      🇬🇧 Manufactured in Britain
