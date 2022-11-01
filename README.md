@@ -2,7 +2,7 @@
 - 🇬🇧 Manufactured in Britain, 🇰🇷 Invested by Koreans
 - 🤖 Korean hardware, 👨🏻‍💻 English software
 - 🪫 An undercharged homebody
-- CSM GCD software update downloading... expected finish: 2025
+- 🏫 CSM GCD software update downloading... expected finish: 2025
 
 <!---
 ch43133/ch43133 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
