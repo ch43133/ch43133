@@ -5,7 +5,7 @@
 -      🗓️ Manufacture Date: 11/02/2004
 - **Model Description:**
 -      🤖 Korean hardware, 🖥️ English software
--      👨🏻‍💻 Programming Langauge: Korean English
+-      👨🏻‍💻 Programming Langauge: Korean, English (British)
 -      🪫 An undercharged homebody
 -      🏫 CSM GCD software update downloading... **ETC: 2025**
 
