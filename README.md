@@ -1,6 +1,6 @@
 - **Model Name:** CHAE UN LEE   (이채운)
 - **Model Origin(s):**
--      🇰🇷 Sponsored by Koreans
+-      🇰🇷 Sponsored by Korea
 -      🇬🇧 Manufactured in Britain
 -      🗓️ Manufacture Date: 11/02/2004
 - **Model Description:**
