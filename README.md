@@ -1,13 +1,13 @@
 - **Model Name:** CHAE UN LEE   (이채운)
 - **Model Origin(s):**
--      🇰🇷 Invested by Koreans
+-      🇰🇷 Sponsored by Koreans
 -      🇬🇧 Manufactured in Britain
 -      🗓️ Manufacture Date: 11/02/2004
 - **Model Description:**
 -      🤖 Korean hardware, 🖥️ English software
 -      👨🏻‍💻 Programming Langauge: Korean, English (British)
 -      🪫 An undercharged homebody
--      🏫 CSM GCD software update downloading... **ETC: 2025**
+-      🏫 CSM GCD software update downloading... ETC 2025
 
 <!---
 ch43133/ch43133 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
